@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import * as mapboxgl from 'mapbox-gl/dist/mapbox-gl.js';
+import mapboxgl from 'mapbox-gl';
 // import { GeoCoordinate } from 'geocoordinate';
 // var mapboxgl = require('mapbox-gl/dist/mapbox-gl.js');
 import { environment } from '../environments/environment';
